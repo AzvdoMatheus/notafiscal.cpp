@@ -1,0 +1,7 @@
+notafiscal.cpp
+*.o
+*.nix
+*.exe
+*.replit
+*.breakpoints
+*.ccls-cache
